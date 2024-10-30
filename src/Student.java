@@ -20,3 +20,4 @@ public class Student implements Person {
         System.out.println("Student Surname: " + surname);
         System.out.println("Student Age: " + age + "\n");
     }
+}
